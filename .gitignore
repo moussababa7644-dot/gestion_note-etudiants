@@ -1,0 +1,13 @@
+# Données locales
+data.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnements
+.venv/
+venv/
+
+# VS Code
+.vscode/
